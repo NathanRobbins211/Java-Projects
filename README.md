@@ -1,6 +1,6 @@
 # About Java Projects
 A collection of Java code snippets that demonstrate a myriad of different applications.
-Each file should have a header documenting what the program does (inside the file).
+Each file should have a header (inside the file) documenting what the program does.
 
 # Instructions
  - Download the file you want to test
